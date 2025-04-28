@@ -49,7 +49,11 @@ Heading 2 | Inter | Semi-Bold (600) | 24px | Used for subheadings and section ti
 Body Text | Inter | Regular (400) | 16px | Used for paragraph text and general content.
 Button Text | Inter | Medium (500) | 14px | Used for button labels and actionable links.
 Caption | Inter | Regular (400) | 12px | Used for small text such as image captions or disclaimers.
-                    #Importance of Identifying Design Properties of a Mockup
+
+
+
+#Importance of Identifying Design Properties of a Mockup
+
 Identifying design properties like color styles, typography, and spacing is essential for several reasons:
 
 Consistency: Ensures a cohesive user experience, enhancing trust and engagement by maintaining a professional look across the platform.
@@ -61,3 +65,31 @@ Accessibility: Helps meet accessibility standards (e.g., WCAG) by setting proper
 Development Handoff: Clear design specifications make the handoff to developers smoother, ensuring the final product aligns with the design vision.
 
 User Experience: Influences how users interact with the system—legible typography, color contrast, and consistent button styles enhance readability and usability.
+
+
+#Project Roles and Responsibilities
+Project Manager: Oversees the project timeline, resources, and communication between teams to ensure successful delivery.
+
+Frontend Developers: Build and implement the user-facing aspects of the project, ensuring the UI is functional and responsive.
+
+Backend Developers: Develop the server-side logic, databases, and APIs to support frontend functionality and data management.
+
+Designers: Create and iterate on the user interface (UI) and user experience (UX) to ensure an intuitive and visually appealing product.
+
+QA/Testers: Test the product for bugs, usability issues, and performance to ensure high-quality releases.
+
+DevOps Engineers: Manage deployment, CI/CD pipelines, infrastructure, and monitor system performance to ensure smooth operations.
+
+Product Owner: Defines project goals, prioritizes features, and ensures the product meets user needs and business objectives.
+
+Scrum Master: Facilitates agile processes, removes blockers, and ensures the team follows Scrum methodology for efficient development.
+
+# Component Patterns
+
+In this section, we will outline the key UI components that will be developed for the AirBnB Clone project. These components will be reusable and designed for a consistent user experience across the platform.
+
+Navbar: A responsive navigation bar providing easy access to key sections of the platform (e.g., Home, Listings, Account, etc.). It will feature a logo, menu items, and a user authentication button (Login/Signup).
+
+Property Card: A compact, visually appealing card to display each property in the listing view. It will include essential details such as the property’s image, title, price, location, and rating. Clicking on a property card will direct the user to the detailed view.
+
+Footer: A fixed or sticky footer that contains links to key areas like the About page, Privacy Policy, Contact information, and social media icons. It provides a consistent, easy-to-find place for secondary navigation.
