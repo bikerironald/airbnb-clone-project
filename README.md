@@ -84,7 +84,7 @@ Product Owner: Defines project goals, prioritizes features, and ensures the prod
 
 Scrum Master: Facilitates agile processes, removes blockers, and ensures the team follows Scrum methodology for efficient development.
 
-# Component Patterns
+# UI Component Patterns
 
 In this section, we will outline the key UI components that will be developed for the AirBnB Clone project. These components will be reusable and designed for a consistent user experience across the platform.
 
